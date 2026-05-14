@@ -2,6 +2,8 @@
 
 This application adds support for the Logitech Harmony Hub to Homey. Control the available devices and/or activities inside a Homey flow, voice commands or the homey app.
 
+> Maintained fork: this repository contains updated Harmony Hub discovery and support fixes for the original Homey Harmony Hub app. Use this repo if you want the maintained version of the integration.
+
 Make sure that Homey is connected to the same network as your Logitech Harmony Hub(s) and the app will autodiscover your hub(s). 
 
 > Important: This app uses a local api available on your Logitech Harmony Hub that is undocumented and unsupported by Logitech. If Logitech decides to remove this api in a firmware upgrade this app will stop working.
